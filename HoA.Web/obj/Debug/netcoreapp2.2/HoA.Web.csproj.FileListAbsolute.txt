@@ -1,0 +1,3 @@
+C:\Vijay\POC\HandsOnAssignment\HoA.Web\obj\Debug\netcoreapp2.2\HoA.Web.csprojAssemblyReference.cache
+C:\Vijay\POC\HandsOnAssignment\HoA.Web\obj\Debug\netcoreapp2.2\HoA.Web.AssemblyInfoInputs.cache
+C:\Vijay\POC\HandsOnAssignment\HoA.Web\obj\Debug\netcoreapp2.2\HoA.Web.AssemblyInfo.cs

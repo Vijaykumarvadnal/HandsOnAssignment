@@ -1,0 +1,8 @@
+C:\Vijay\POC\HandsOnAssignment\Tests\HoA.Dal.Test\bin\Debug\netcoreapp3.1\HoA.Dal.Test.deps.json
+C:\Vijay\POC\HandsOnAssignment\Tests\HoA.Dal.Test\bin\Debug\netcoreapp3.1\HoA.Dal.Test.dll
+C:\Vijay\POC\HandsOnAssignment\Tests\HoA.Dal.Test\bin\Debug\netcoreapp3.1\HoA.Dal.Test.pdb
+C:\Vijay\POC\HandsOnAssignment\Tests\HoA.Dal.Test\obj\Debug\netcoreapp3.1\HoA.Dal.Test.csprojAssemblyReference.cache
+C:\Vijay\POC\HandsOnAssignment\Tests\HoA.Dal.Test\obj\Debug\netcoreapp3.1\HoA.Dal.Test.AssemblyInfoInputs.cache
+C:\Vijay\POC\HandsOnAssignment\Tests\HoA.Dal.Test\obj\Debug\netcoreapp3.1\HoA.Dal.Test.AssemblyInfo.cs
+C:\Vijay\POC\HandsOnAssignment\Tests\HoA.Dal.Test\obj\Debug\netcoreapp3.1\HoA.Dal.Test.dll
+C:\Vijay\POC\HandsOnAssignment\Tests\HoA.Dal.Test\obj\Debug\netcoreapp3.1\HoA.Dal.Test.pdb

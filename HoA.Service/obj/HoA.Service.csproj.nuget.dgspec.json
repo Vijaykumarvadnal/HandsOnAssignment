@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Service\\HoA.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Dal\\HoA.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Dal\\HoA.Dal.csproj",
+        "projectName": "HoA.Dal",
+        "projectPath": "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Dal\\HoA.Dal.csproj",
+        "packagesPath": "C:\\Users\\vijaykumar_vadnal\\.nuget\\packages\\",
+        "outputPath": "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vijaykumar_vadnal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Entity\\HoA.Entity.csproj": {
+                "projectPath": "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Entity\\HoA.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "DapperExtensions": {
+              "target": "Package",
+              "version": "[1.6.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Entity\\HoA.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Entity\\HoA.Entity.csproj",
+        "projectName": "HoA.Entity",
+        "projectPath": "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Entity\\HoA.Entity.csproj",
+        "packagesPath": "C:\\Users\\vijaykumar_vadnal\\.nuget\\packages\\",
+        "outputPath": "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vijaykumar_vadnal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Service\\HoA.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Service\\HoA.Service.csproj",
+        "projectName": "HoA.Service",
+        "projectPath": "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Service\\HoA.Service.csproj",
+        "packagesPath": "C:\\Users\\vijaykumar_vadnal\\.nuget\\packages\\",
+        "outputPath": "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vijaykumar_vadnal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Dal\\HoA.Dal.csproj": {
+                "projectPath": "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Dal\\HoA.Dal.csproj"
+              },
+              "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Entity\\HoA.Entity.csproj": {
+                "projectPath": "C:\\Vijay\\POC\\HandsOnAssignment\\HoA.Entity\\HoA.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

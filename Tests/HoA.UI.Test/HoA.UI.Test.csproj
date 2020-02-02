@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.13.1" />
+    <PackageReference Include="xunit" Version="2.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\HoA.Entity\HoA.Entity.csproj" />
+    <ProjectReference Include="..\..\HoA.Service\HoA.Service.csproj" />
+    <ProjectReference Include="..\..\HoA.UI\HoA.UI.csproj" />
+  </ItemGroup>
+
+</Project>

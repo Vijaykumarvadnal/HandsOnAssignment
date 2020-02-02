@@ -1,0 +1,11 @@
+C:\Vijay\POC\HandsOnAssignment\HoA.Dal\bin\Debug\netcoreapp3.1\HoA.Dal.deps.json
+C:\Vijay\POC\HandsOnAssignment\HoA.Dal\bin\Debug\netcoreapp3.1\HoA.Dal.dll
+C:\Vijay\POC\HandsOnAssignment\HoA.Dal\obj\Debug\netcoreapp3.1\HoA.Dal.AssemblyInfoInputs.cache
+C:\Vijay\POC\HandsOnAssignment\HoA.Dal\obj\Debug\netcoreapp3.1\HoA.Dal.AssemblyInfo.cs
+C:\Vijay\POC\HandsOnAssignment\HoA.Dal\obj\Debug\netcoreapp3.1\HoA.Dal.csprojAssemblyReference.cache
+C:\Vijay\POC\HandsOnAssignment\HoA.Dal\bin\Debug\netcoreapp3.1\HoA.Entity.dll
+C:\Vijay\POC\HandsOnAssignment\HoA.Dal\bin\Debug\netcoreapp3.1\HoA.Entity.pdb
+C:\Vijay\POC\HandsOnAssignment\HoA.Dal\obj\Debug\netcoreapp3.1\HoA.Dal.csproj.CopyComplete
+C:\Vijay\POC\HandsOnAssignment\HoA.Dal\bin\Debug\netcoreapp3.1\HoA.Dal.pdb
+C:\Vijay\POC\HandsOnAssignment\HoA.Dal\obj\Debug\netcoreapp3.1\HoA.Dal.dll
+C:\Vijay\POC\HandsOnAssignment\HoA.Dal\obj\Debug\netcoreapp3.1\HoA.Dal.pdb

@@ -1,0 +1,7 @@
+C:\Vijay\POC\HandsOnAssignment\HoA.Entity\bin\Debug\netcoreapp2.2\HoA.Entity.deps.json
+C:\Vijay\POC\HandsOnAssignment\HoA.Entity\bin\Debug\netcoreapp2.2\HoA.Entity.dll
+C:\Vijay\POC\HandsOnAssignment\HoA.Entity\bin\Debug\netcoreapp2.2\HoA.Entity.pdb
+C:\Vijay\POC\HandsOnAssignment\HoA.Entity\obj\Debug\netcoreapp2.2\HoA.Entity.AssemblyInfoInputs.cache
+C:\Vijay\POC\HandsOnAssignment\HoA.Entity\obj\Debug\netcoreapp2.2\HoA.Entity.AssemblyInfo.cs
+C:\Vijay\POC\HandsOnAssignment\HoA.Entity\obj\Debug\netcoreapp2.2\HoA.Entity.dll
+C:\Vijay\POC\HandsOnAssignment\HoA.Entity\obj\Debug\netcoreapp2.2\HoA.Entity.pdb

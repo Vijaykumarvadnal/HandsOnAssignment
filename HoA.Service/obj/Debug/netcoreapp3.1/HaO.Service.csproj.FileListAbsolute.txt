@@ -1,0 +1,13 @@
+C:\Vijay\POC\HandsOnAssignment\HaO.Service\bin\Debug\netcoreapp3.1\HaO.Service.deps.json
+C:\Vijay\POC\HandsOnAssignment\HaO.Service\bin\Debug\netcoreapp3.1\HaO.Service.dll
+C:\Vijay\POC\HandsOnAssignment\HaO.Service\bin\Debug\netcoreapp3.1\HaO.Service.pdb
+C:\Vijay\POC\HandsOnAssignment\HaO.Service\bin\Debug\netcoreapp3.1\HoA.Dal.dll
+C:\Vijay\POC\HandsOnAssignment\HaO.Service\bin\Debug\netcoreapp3.1\HoA.Entity.dll
+C:\Vijay\POC\HandsOnAssignment\HaO.Service\bin\Debug\netcoreapp3.1\HoA.Dal.pdb
+C:\Vijay\POC\HandsOnAssignment\HaO.Service\bin\Debug\netcoreapp3.1\HoA.Entity.pdb
+C:\Vijay\POC\HandsOnAssignment\HaO.Service\obj\Debug\netcoreapp3.1\HaO.Service.csprojAssemblyReference.cache
+C:\Vijay\POC\HandsOnAssignment\HaO.Service\obj\Debug\netcoreapp3.1\HaO.Service.AssemblyInfoInputs.cache
+C:\Vijay\POC\HandsOnAssignment\HaO.Service\obj\Debug\netcoreapp3.1\HaO.Service.AssemblyInfo.cs
+C:\Vijay\POC\HandsOnAssignment\HaO.Service\obj\Debug\netcoreapp3.1\HaO.Service.csproj.CopyComplete
+C:\Vijay\POC\HandsOnAssignment\HaO.Service\obj\Debug\netcoreapp3.1\HaO.Service.dll
+C:\Vijay\POC\HandsOnAssignment\HaO.Service\obj\Debug\netcoreapp3.1\HaO.Service.pdb

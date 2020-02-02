@@ -1,0 +1,11 @@
+C:\Vijay\POC\HandsOnAssignment\HoA.DBMigration\bin\Debug\netcoreapp3.1\HoA.DBMigration.deps.json
+C:\Vijay\POC\HandsOnAssignment\HoA.DBMigration\bin\Debug\netcoreapp3.1\HoA.DBMigration.dll
+C:\Vijay\POC\HandsOnAssignment\HoA.DBMigration\obj\Debug\netcoreapp3.1\HoA.DBMigration.csprojAssemblyReference.cache
+C:\Vijay\POC\HandsOnAssignment\HoA.DBMigration\obj\Debug\netcoreapp3.1\HoA.DBMigration.AssemblyInfoInputs.cache
+C:\Vijay\POC\HandsOnAssignment\HoA.DBMigration\obj\Debug\netcoreapp3.1\HoA.DBMigration.AssemblyInfo.cs
+C:\Vijay\POC\HandsOnAssignment\HoA.DBMigration\bin\Debug\netcoreapp3.1\HoA.DBMigration.pdb
+C:\Vijay\POC\HandsOnAssignment\HoA.DBMigration\obj\Debug\netcoreapp3.1\HoA.DBMigration.dll
+C:\Vijay\POC\HandsOnAssignment\HoA.DBMigration\obj\Debug\netcoreapp3.1\HoA.DBMigration.pdb
+C:\Vijay\POC\HandsOnAssignment\HoA.DBMigration\bin\Debug\netcoreapp3.1\HoA.Entity.dll
+C:\Vijay\POC\HandsOnAssignment\HoA.DBMigration\bin\Debug\netcoreapp3.1\HoA.Entity.pdb
+C:\Vijay\POC\HandsOnAssignment\HoA.DBMigration\obj\Debug\netcoreapp3.1\HoA.DBMigration.csproj.CopyComplete
