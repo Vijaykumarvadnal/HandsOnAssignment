@@ -10,4 +10,4 @@ This project is now bifurcated into different projects to handle calls from MVC 
 
 Database layer i.e. **HoA.Dal** is configured to have Dapper & DapperExtension for ORM, Dapper is micro-ORM which is purely based on POCO that means your entity/domain classes should have same set of properties matching to columns mentioned in database along with class names should also match with database table name.
 
-One of the configurations for OAuth2 using github has been implemented and those code lines are commented in this project for the reference.
+One of the configurations for **OAuth2** using **github** has been implemented and those code lines are commented in this project for the reference.
