@@ -18,13 +18,13 @@ namespace HoA.UI.Controllers
             _customerService = customerService;
         }
 
-        // GET: Products
+        // GET: Customers
         public async Task<IActionResult> Index()
         {
             return View(_customerService.GetAll().ToList());
         }
 
-        // GET: Products/Details/5
+        // GET: Customer/Details/5
         public async Task<IActionResult> Details(long? id)
         {
             if (id == null)
@@ -41,13 +41,13 @@ namespace HoA.UI.Controllers
             return View(customer);
         }
 
-        // GET: Products/Create
+        // GET: Customer/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Products/Create
+        // POST: Customer/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(
@@ -63,7 +63,7 @@ namespace HoA.UI.Controllers
             return View(customer);
         }
 
-        // GET: Products/Edit/5
+        // GET: Customer/Edit/5
         public async Task<IActionResult> Edit(long? id)
         {
             if (id == null)
@@ -80,7 +80,7 @@ namespace HoA.UI.Controllers
             return View(customer);
         }
 
-        // POST: Products/Edit/5
+        // POST: Customer/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(long id,
@@ -109,7 +109,7 @@ namespace HoA.UI.Controllers
             return View(customer);
         }
 
-        // GET: Products/Delete/5
+        // GET: Customer/Delete/5
         public async Task<IActionResult> Delete(long? id)
         {
             if (id == null)
@@ -126,7 +126,7 @@ namespace HoA.UI.Controllers
             return View(customer);
         }
 
-        // POST: Products/Delete/5
+        // POST: Customer/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(long id)
